@@ -27,7 +27,7 @@ theme:
 
 # Content Menu
 nav:
-  - Início: "index.md"
+  - Início: "home.md"
   - Produto:
       - Identidade visual: "product/visual-identity.md"
   - Projeto:
