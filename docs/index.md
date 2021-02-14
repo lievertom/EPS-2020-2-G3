@@ -1,5 +1,3 @@
 # Introdução
 
 # Equipe
-
-TODO
